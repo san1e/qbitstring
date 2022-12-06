@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qbitstring", "qbitstring\qbitstring.csproj", "{9FB4391F-FFB1-418D-878E-B754E09F0A82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "qbitstring", "qbitstring\qbitstring.csproj", "{9FB4391F-FFB1-418D-878E-B754E09F0A82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Длина строки", "Длина строки\Длина строки.csproj", "{91FFB67E-78D8-4908-BD35-C1280B4F9AE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Длина строки", "Длина строки\Длина строки.csproj", "{91FFB67E-78D8-4908-BD35-C1280B4F9AE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Количество пробелов", "Количество пробелов\Количество пробелов.csproj", "{2C734917-EB41-4DF8-A2BA-E7B8410A926F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Количество пробелов", "Количество пробелов\Количество пробелов.csproj", "{2C734917-EB41-4DF8-A2BA-E7B8410A926F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Первый пробел", "Первый пробел\Первый пробел.csproj", "{701A4921-043D-4C7F-B3FE-0CF8B1A9B1A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Первый пробел", "Первый пробел\Первый пробел.csproj", "{701A4921-043D-4C7F-B3FE-0CF8B1A9B1A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Следущий и предыдущий", "Следущий и предыдущий\Следущий и предыдущий.csproj", "{C0B56CE2-1065-44A1-ABE6-0F3EAA5E5892}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Следущий и предыдущий", "Следущий и предыдущий\Следущий и предыдущий.csproj", "{C0B56CE2-1065-44A1-ABE6-0F3EAA5E5892}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Удвоение символа z", "Удвоение символа z\Удвоение символа z.csproj", "{7081F5F3-0A7A-49A1-B7BF-156773493CF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Удвоение символа z", "Удвоение символа z\Удвоение символа z.csproj", "{7081F5F3-0A7A-49A1-B7BF-156773493CF5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Удаление_символов", "Удаление_символов\Удаление_символов.csproj", "{403E08E1-8112-4F1A-9E88-33C0FF84621E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Замена w на z и наоборот", "Замена w на z и наоборот\Замена w на z и наоборот.csproj", "{6E76A3BA-6033-4B2A-9381-26736203FC99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{403E08E1-8112-4F1A-9E88-33C0FF84621E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{403E08E1-8112-4F1A-9E88-33C0FF84621E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{403E08E1-8112-4F1A-9E88-33C0FF84621E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E76A3BA-6033-4B2A-9381-26736203FC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E76A3BA-6033-4B2A-9381-26736203FC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E76A3BA-6033-4B2A-9381-26736203FC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E76A3BA-6033-4B2A-9381-26736203FC99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
