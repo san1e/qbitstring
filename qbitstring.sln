@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qbitstring", "qbitstring\qbitstring.csproj", "{9FB4391F-FFB1-418D-878E-B754E09F0A82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Длина строки", "Длина строки\Длина строки.csproj", "{91FFB67E-78D8-4908-BD35-C1280B4F9AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Количество пробелов", "Количество пробелов\Количество пробелов.csproj", "{2C734917-EB41-4DF8-A2BA-E7B8410A926F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Первый пробел", "Первый пробел\Первый пробел.csproj", "{701A4921-043D-4C7F-B3FE-0CF8B1A9B1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Следущий и предыдущий", "Следущий и предыдущий\Следущий и предыдущий.csproj", "{C0B56CE2-1065-44A1-ABE6-0F3EAA5E5892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Удвоение символа z", "Удвоение символа z\Удвоение символа z.csproj", "{7081F5F3-0A7A-49A1-B7BF-156773493CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FB4391F-FFB1-418D-878E-B754E09F0A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB4391F-FFB1-418D-878E-B754E09F0A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB4391F-FFB1-418D-878E-B754E09F0A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB4391F-FFB1-418D-878E-B754E09F0A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FFB67E-78D8-4908-BD35-C1280B4F9AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FFB67E-78D8-4908-BD35-C1280B4F9AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FFB67E-78D8-4908-BD35-C1280B4F9AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FFB67E-78D8-4908-BD35-C1280B4F9AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C734917-EB41-4DF8-A2BA-E7B8410A926F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C734917-EB41-4DF8-A2BA-E7B8410A926F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C734917-EB41-4DF8-A2BA-E7B8410A926F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C734917-EB41-4DF8-A2BA-E7B8410A926F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701A4921-043D-4C7F-B3FE-0CF8B1A9B1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701A4921-043D-4C7F-B3FE-0CF8B1A9B1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701A4921-043D-4C7F-B3FE-0CF8B1A9B1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701A4921-043D-4C7F-B3FE-0CF8B1A9B1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B56CE2-1065-44A1-ABE6-0F3EAA5E5892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B56CE2-1065-44A1-ABE6-0F3EAA5E5892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B56CE2-1065-44A1-ABE6-0F3EAA5E5892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B56CE2-1065-44A1-ABE6-0F3EAA5E5892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7081F5F3-0A7A-49A1-B7BF-156773493CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7081F5F3-0A7A-49A1-B7BF-156773493CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7081F5F3-0A7A-49A1-B7BF-156773493CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7081F5F3-0A7A-49A1-B7BF-156773493CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04AEBA71-D3CC-42D9-979A-54214F7749F7}
+	EndGlobalSection
+EndGlobal
