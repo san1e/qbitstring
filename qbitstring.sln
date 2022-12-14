@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Из_нижнего_в_ве
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сортировка_4-х_чисел", "Сортировка_4-х_чисел\Сортировка_4-х_чисел.csproj", "{1911A09A-73EE-46F7-B7FC-CA262D10C3DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Образец_текст", "Образец_текст\Образец_текст.csproj", "{348E48BB-DF43-4542-BA06-25E7201F6B84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "К-й_пробел", "К-й_пробел\К-й_пробел.csproj", "{403909D1-EE5F-4B85-B07C-BB0EC95C6952}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{1911A09A-73EE-46F7-B7FC-CA262D10C3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1911A09A-73EE-46F7-B7FC-CA262D10C3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1911A09A-73EE-46F7-B7FC-CA262D10C3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348E48BB-DF43-4542-BA06-25E7201F6B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348E48BB-DF43-4542-BA06-25E7201F6B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348E48BB-DF43-4542-BA06-25E7201F6B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348E48BB-DF43-4542-BA06-25E7201F6B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403909D1-EE5F-4B85-B07C-BB0EC95C6952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403909D1-EE5F-4B85-B07C-BB0EC95C6952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403909D1-EE5F-4B85-B07C-BB0EC95C6952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403909D1-EE5F-4B85-B07C-BB0EC95C6952}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
